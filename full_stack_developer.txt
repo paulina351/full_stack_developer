@@ -1,0 +1,11 @@
+A full stack developer is a term used to describe a person who can work as both frontend and backend developer.
+he possess the skills needed to work on the client side of the web application as well as the server side of the web
+application.
+he uses Html, Css, javascript, bootstrap, react,tailwind and many more to develop as a frontend. he also requires
+the skills of an of the programming languages such as node.js, java, spring, javascript, python, django to run the 
+server side of a web page, that is the area which the users cannot see.
+
+Other tools he will needs includes
+computer
+text editor such as vscode, nano, atom.
+communities for practice and jobs and even learning communities.
